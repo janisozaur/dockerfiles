@@ -1,4 +1,4 @@
-FROM ubuntu:15.10
+FROM ubuntu:vivid
 
 MAINTAINER Michał Janiszewski <janisozaur+docker_sdl2@gmail.com>
 
